@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4dab9668.css",
-    "main.js": "/portfolio/static/js/main.59e59e65.js",
-    "static/media/image1.png": "/portfolio/static/media/image1.651b034d73edb01e01c2.png",
-    "static/media/project5.png": "/portfolio/static/media/project5.0e2fc6d2c173ae07c521.png",
-    "static/media/mobile.jpg": "/portfolio/static/media/mobile.da1915e7d0e5c5e23c90.jpg",
-    "static/media/profile02.jpg": "/portfolio/static/media/profile02.5d42d01bfd80b6c95110.jpg",
-    "static/media/project3.jpg": "/portfolio/static/media/project3.21369cd29deb0fcffc2f.jpg",
-    "static/media/hospital.jpg": "/portfolio/static/media/hospital.f9f1dd07bc1d8cc699d0.jpg",
-    "static/media/sanjog_cv.pdf": "/portfolio/static/media/sanjog_cv.72d80c52f87f8591d164.pdf",
-    "static/media/project4.png": "/portfolio/static/media/project4.f727b38ddc487523d6b4.png",
-    "static/media/quiz.png": "/portfolio/static/media/quiz.265c7f4a1ff8374a8dc5.png",
-    "static/media/game_booking.jpg": "/portfolio/static/media/game_booking.22affd4c63c042cc8259.jpg",
-    "static/media/project2.jpg": "/portfolio/static/media/project2.f2a63c23b8d29ea390e2.jpg",
-    "static/media/technova.jpg": "/portfolio/static/media/technova.730e704af79ad274b052.jpg",
-    "static/media/slick.svg": "/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/portfolio/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/portfolio/index.html",
-    "main.4dab9668.css.map": "/portfolio/static/css/main.4dab9668.css.map",
-    "main.59e59e65.js.map": "/portfolio/static/js/main.59e59e65.js.map"
+    "main.css": "/my-portfolio/static/css/main.198d3313.css",
+    "main.js": "/my-portfolio/static/js/main.4ee9f292.js",
+    "static/media/image1.png": "/my-portfolio/static/media/image1.651b034d73edb01e01c2.png",
+    "static/media/project5.png": "/my-portfolio/static/media/project5.0e2fc6d2c173ae07c521.png",
+    "static/media/mobile.jpg": "/my-portfolio/static/media/mobile.da1915e7d0e5c5e23c90.jpg",
+    "static/media/profile02.jpg": "/my-portfolio/static/media/profile02.5d42d01bfd80b6c95110.jpg",
+    "static/media/project3.jpg": "/my-portfolio/static/media/project3.21369cd29deb0fcffc2f.jpg",
+    "static/media/hospital.jpg": "/my-portfolio/static/media/hospital.f9f1dd07bc1d8cc699d0.jpg",
+    "static/media/sanjog_cv.pdf": "/my-portfolio/static/media/sanjog_cv.72d80c52f87f8591d164.pdf",
+    "static/media/project4.png": "/my-portfolio/static/media/project4.f727b38ddc487523d6b4.png",
+    "static/media/quiz.png": "/my-portfolio/static/media/quiz.265c7f4a1ff8374a8dc5.png",
+    "static/media/game_booking.jpg": "/my-portfolio/static/media/game_booking.22affd4c63c042cc8259.jpg",
+    "static/media/project2.jpg": "/my-portfolio/static/media/project2.f2a63c23b8d29ea390e2.jpg",
+    "static/media/technova.jpg": "/my-portfolio/static/media/technova.730e704af79ad274b052.jpg",
+    "static/media/slick.svg": "/my-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/my-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/my-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/my-portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/my-portfolio/index.html",
+    "main.198d3313.css.map": "/my-portfolio/static/css/main.198d3313.css.map",
+    "main.4ee9f292.js.map": "/my-portfolio/static/js/main.4ee9f292.js.map"
   },
   "entrypoints": [
-    "static/css/main.4dab9668.css",
-    "static/js/main.59e59e65.js"
+    "static/css/main.198d3313.css",
+    "static/js/main.4ee9f292.js"
   ]
 }
